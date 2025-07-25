@@ -17,6 +17,14 @@ The robots were built with individual components we found online, that we meshed
 While we prepared for the competition, the robots could reliably place goals and were rather fast:
 ![A robot placing a goal](./media/goal.gif)
 
+### What worked
+The robots could reliably
+- Find the ball
+- Go towards the ball and place themselves in positions in which they could start moving towards the goal
+- Shoot the ball / place a goal
+- Avoid going out of bounds by staying a certain distance from walls
+- Recenter when they couldn't see the ball. The robots could always see the ball from the center of the field (except if another robot was hiding it), so a centering function was enough to find the ball if it wasn't in the robot's field of visioin
+
 ### What failed
 The robots broke in many ways during the national competition which meant we couldn't play for many of the matches:
 - The wheels got disconnected from the motor's axies many times, which meant the whole robot became unable to play.
