@@ -8,7 +8,7 @@ For this competition, we need to create _two fully autonomous robots_ that play 
 [Learn more about the competition](https://robocup-junior.github.io/soccer-rules/master/rules.html)
 
 ## The robots
-![Our Robot](../media/spinning.gif)
+![Our Robot](./media/spinning.gif)
 
 The robots were built with individual components we found online, that we meshed together using communication protocols such as uart. The frames were 3d printed, and the cone was manufactured with CNC machining.
 
