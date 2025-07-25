@@ -15,7 +15,7 @@ The robots were built with individual components we found online, that we meshed
 [More on the components we used](./components.md)
 
 While we prepared for the competition, the robots could reliably place goals and were rather fast:
-![A robot placing a goal](../media/goal.gif)
+![A robot placing a goal](./media/goal.gif)
 
 ### What failed
 The robots broke in many ways during the national competition which meant we couldn't play for many of the matches:
