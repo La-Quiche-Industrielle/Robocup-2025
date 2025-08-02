@@ -1,0 +1,17 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","0.1µF ceramic","C_0805_2012Metric",139.050000,-79.500000,0.000000,top
+"C2","0.1µF ceramic","C_0805_2012Metric",194.450000,-104.525000,0.000000,top
+"C3","C_Polarized_Small_US__10µF","CP_Radial_D5.0mm_P2.00mm",133.550000,-78.000000,0.000000,top
+"C4","0.1µF ceramic","C_0805_2012Metric",199.000000,-109.025000,0.000000,top
+"C5","0.1µF ceramic","C_0805_2012Metric",136.000000,-74.000000,0.000000,top
+"C6","C_Polarized_Small_US__10µF","CP_Radial_D5.0mm_P2.00mm",193.450000,-108.525000,0.000000,top
+"J1","Conn_01x07_Pin","PinHeader_1x07_P2.54mm_Vertical",177.500000,-53.500000,-90.000000,top
+"J2","Conn_driver1","PinHeader_1x05_P2.54mm_Vertical",126.770000,-78.800295,-30.000000,top
+"J3","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Vertical",179.762500,-111.313286,-30.000000,top
+"J4","Conn_DC-DC5V","PinHeader_1x02_P2.54mm_Vertical",119.275000,-47.500000,-90.000000,top
+"J5","relay1","PinHeader_1x03_P2.54mm_Vertical",110.500000,-137.000000,0.000000,top
+"J6","relay2","PinHeader_1x03_P2.54mm_Vertical",189.500000,-137.000000,0.000000,top
+"J8","Conn_01x04_Pin","PinHeader_1x04_P2.54mm_Vertical",145.920000,-45.000000,90.000000,top
+"U1","TB6612FNG","SSOP-24_5.3x8.2mm_P0.65mm",134.450000,-85.375000,0.000000,top
+"U2","ESP32-DEVKIT-V1","MODULE_ESP32_DEVKIT_V1",196.213616,-67.758978,-60.000000,top
+"U3","TB6612FNG","SSOP-24_5.3x8.2mm_P0.65mm",187.100000,-115.075000,0.000000,top
