@@ -12,7 +12,7 @@ Most teams go for the third option and so did we. A camera is pointing straight 
 We had an openmv h7 cam pointed at a cnc-machined aluminum cone.
 
 ![The camera's view of the field through the cone](../media/cone_view.gif)
-*This is the view on the field that the camera gets through our cone. When the cone and camera are well aligned, the cone truly creates a rectangular view of the field.
+*This is the view on the field that the camera gets through our cone. When the cone and camera are well aligned, the cone truly creates a rectangular view of the field.*
 
 ## Why our cone is interesting
 Many teams use hyperbolic mirors to have a view of the field. The cross section of the cone is hyperbolic. We decided to try something different. In the camera's view, using a hyperbolic mirror, the field is very distorted. Seeing this issue, we created a program that creates the perfect cone shape (cross section) for the view of the field to be a rectangle in the image given many inputs such as the camera's position, the cone's position and the field of view. The camera returns an image of the field similar to a photo being taken from far above the field. The value of such an image is that the distance between two points that 15 pixels on the image represents is equivalent to those same 15 pixels somewhere else in the image. We can measure distances in pixels between objects straight off the image, multiply it by a constant and get centimeters. This let us rely solely on the camera to go towards the ball, go towards the goal and avoid going out of bounds.
